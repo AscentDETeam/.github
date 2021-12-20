@@ -1,0 +1,8 @@
+{
+    "name": ".NET CI-Build",
+    "description": ".NET CI-Build workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "csharp"
+    ]
+}
